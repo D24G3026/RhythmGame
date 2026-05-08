@@ -1,3 +1,5 @@
+
+
 #MusicGame#Processingを用いて制作したリズムゲーム風のミニゲームです。
 スペースキーでタイミングよくノーツを入力すると、入力タイミングに応じて判定結果が表示される仕様になっています。音楽ゲームが好きで、タイミング判定やキー入力処理がどのように実装されているのか興味を持ったことをきっかけに制作しました。制作では、入力タイミングによって判定を分岐させる処理や、複数ノーツの動きを管理する部分に特に苦労しました。
 
@@ -56,3 +58,5 @@ void keyPressed() {
     }
   }
 }
+<img width="978" height="1280" alt="スクリーンショット 2026-05-08 173921" src="https://github.com/user-attachments/assets/1e7541c4-7686-46a3-bdf8-46967c779ccf" />
+<img width="976" height="1266" alt="スクリーンショット 2026-05-08 173901" src="https://github.com/user-attachments/assets/8d8992a2-cccc-4ef5-96c1-22e58f5e7c3e" />
